@@ -1,0 +1,10 @@
+3D City Rendering with WebGL and JavaScript
+
+Members:
+Kennedy Bowles
+Gatlin Murr
+
+This project is a 3D city rendering built with HTML, JavaScript, and WebGL, 
+allowing users to naviagte through the city using an interactive camera. 
+The city includes buildings, roads, and traffic lights to showcase basic 
+3D modeling and visualization techniques.
